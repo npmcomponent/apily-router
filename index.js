@@ -16,8 +16,8 @@ module.exports = Router;
  * Component dependencies
  */
 
-var Route = require('route');
-var Emitter = require('emitter');
+var Route = require('apily-route');
+var Emitter = require('apily-emitter');
 
 /**
  * Utils

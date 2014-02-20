@@ -1,0 +1,14 @@
+{
+  "name": "apily-router",
+  "description": "Router component",
+  "version": "0.2.0",
+  "keywords": [
+    "router",
+    "route"
+  ],
+  "dependencies": {
+    "apily-emitter": "git://github.com/npmcomponent/apily-emitter.git",
+    "apily-route": "git://github.com/npmcomponent/apily-route.git"
+  },
+  "license": "MIT"
+}
